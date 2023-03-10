@@ -167,14 +167,19 @@ fieldset{
 }
 
 .menu{
-    background-color: #670b15;
+    background-color: #790d19;
     color: #fff;
-    border: 1px solid #670b15;
+    border: 1px solid #790d19;
 }
 
 .dropdown-menu{
-    background-color: #670b15;
-    padding: 1em;
+    background-color: #790d19;
+}
+
+.dropdown-item{
+    background-color: #790d19;
+    padding: 1em 0.4em;
+    text-align: center;
 }
 
 .dropdown{
@@ -215,10 +220,17 @@ m-header span{
     border-radius: 20px;
 }
 
+.dropdown-item{
+    text-align: left;
+}
+
 .white{
     background-color: #fff;
     color: #670b15;
     font-weight: bold;
+    padding: 0.3em 0.4em;
+    border: 0px;
+    text-align: left;
 }
 
 .number{
