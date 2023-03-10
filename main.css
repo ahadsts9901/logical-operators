@@ -32,7 +32,7 @@ header span{
 }
 
 header ul{
-    margin-left: 0em;
+    margin: 0em;
     background-color: #790d19;
     padding: 0.5em;
 }
@@ -186,7 +186,7 @@ fieldset{
     border: 2px solid #fff;
 }
 
-@media (max-width: 1024px) { 
+@media (max-width: 1000px) { 
 
 body{
     padding: 0em 1em;
